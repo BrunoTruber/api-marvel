@@ -1,1 +1,3 @@
-# API-Marvel
+# API da Marvel - NodeJs
+
+> projeto bonito
