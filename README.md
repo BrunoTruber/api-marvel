@@ -47,4 +47,4 @@ Essa é a estrutura JSON para fazer o POST e o PUT:
 }
 ```
 
-Obrigado por testar e utilizar minha API, volte sempre!
+Obrigado por testar e utilizar minha API!
