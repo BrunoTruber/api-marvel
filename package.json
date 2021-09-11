@@ -9,17 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codethi/apinode-marvel.git"
+    "url": "git+https://github.com/BrunoTruber/api-marvel.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codethi/apinode-marvel/issues"
+    "url": "https://github.com/BrunoTruber/api-marvel/issues"
   },
-  "homepage": "https://github.com/codethi/apinode-marvel#readme",
+  "homepage": "https://github.com/BrunoTruber/api-marvel#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "mongodb": "^4.1.1",
     "mongoose": "^6.0.5"
   },
   "devDependencies": {
