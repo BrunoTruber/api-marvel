@@ -9,7 +9,7 @@ const getAll = async (req, res) => {
         .send({ message: "Não existem personagens cadastrados!" });
     return res.send({ personagens });
   } catch (err) {
-    res.status(500).send({ error: err.message });
+    res.status(500).send({ error: err.message }); 
   }
 };
 
