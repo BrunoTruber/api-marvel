@@ -1,8 +1,8 @@
 [
 	{
-		"nome": "Nake Terminator",
-		"identidade": "teste",
-		"genero":"teste",
+		"nome": "Airbus",
+		"velocidademax": "teste",
+		"preco":"teste",
 		"imagem": "teste"
 	}
 
